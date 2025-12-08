@@ -41,7 +41,7 @@ LORA_PATH = "/content/NSFW-Real/Hand v2.safetensors"
 try:
     # 🔁 Use Img2Img pipeline
     pipe = StableDiffusionXLImg2ImgPipeline.from_pretrained(
-        "emanresunonLustXL_4.0",
+        "emanresunon/LustXL_4.0",
         torch_dtype=torch.float16,
         use_safetensors=True,
         use_auth_token=HF_TOKEN
