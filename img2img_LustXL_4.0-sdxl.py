@@ -16,8 +16,7 @@ DEFAULT_PROMPT = (
     "portrait of a young woman, soft natural lighting, hyperrealistic skin, detailed hands, detailed eyes"
 )
 DEFAULT_NEGATIVE_PROMPT = (
-    "nsfw, (low quality, worst quality:1.2), cartoon, anime, 3d, painting, sketch, "
-    "mutated hands, extra fingers, missing fingers, extra limbs, bad anatomy"
+    "cartoon, anime, manga, illustration, drawing, painting, oil painting, watercolor, acrylic, sketch, lineart, cel shading, comic style, graphic novel, 3d render, cgi, blender, unreal engine,stylized, exaggerated features, chibi, kawaii, extra fingers, missing fingers, fused fingers, mutated hands, malformed hands, extra limbs, missing limbs, bad anatomy, distorted anatomy, poorly drawn hands, poorly drawn feet, disproportionate body, plastic skin, waxy skin, overly smooth skin,flat shading, smooth shading, oversaturated, idealized face"
 )
 SEED = -1
 GUIDANCE_SCALE = 8.0
